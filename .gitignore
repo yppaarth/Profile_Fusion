@@ -1,0 +1,13 @@
+fvenv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+nodeids
+CACHEDIR.TAG
+*.log
+
+# Personal/local files that should not be submitted
+*LinkedIn.html
+*_resume*.pdf
+*Resume*.pdf

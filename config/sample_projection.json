@@ -1,0 +1,33 @@
+{
+  "include": [
+    "candidate_id",
+    "full_name",
+    "emails",
+    "phones",
+    "location",
+    "links",
+    "headline",
+    "years_experience",
+    "skills",
+    "experience",
+    "education",
+    "overall_confidence"
+  ],
+  "rename": {
+    "candidate_id": "profile_id",
+    "full_name": "candidate_name",
+    "emails": "contact_emails",
+    "phones": "contact_phones",
+    "headline": "professional_summary",
+    "years_experience": "total_years_experience",
+    "overall_confidence": "confidence_score"
+  },
+  "normalize": {
+    "phones": "e164",
+    "skills": "canonical",
+    "location": "structured"
+  },
+  "show_confidence": true,
+  "show_provenance": false,
+  "missing_policy": "omit"
+}

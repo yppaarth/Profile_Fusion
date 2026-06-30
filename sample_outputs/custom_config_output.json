@@ -1,0 +1,116 @@
+{
+  "profile_id": "cand_163f6246af42",
+  "candidate_name": "Priya Sharma",
+  "contact_emails": [
+    "priya.sharma@email.com"
+  ],
+  "contact_phones": [
+    "+14155552671"
+  ],
+  "location": {
+    "city": "San Francisco",
+    "region": "CA",
+    "country": "US"
+  },
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/priya-sharma-swe/",
+    "github": "https://github.com/priya-sharma-dev",
+    "website": "https://priyasharma.dev"
+  },
+  "professional_summary": "Senior Software Engineer with 6+ years of experience building large-scale distributed systems and ML infrastructure. Passionate about high-throughput data pipelines, system reliability, and engineering excellence. Previously at Google and Stripe.",
+  "total_years_experience": 9.0,
+  "skills": [
+    "Python",
+    "Go",
+    "C++",
+    "Distributed Systems",
+    "Machine Learning",
+    "Apache Kafka",
+    "Kubernetes",
+    "AWS",
+    "PostgreSQL",
+    "TensorFlow",
+    "Docker",
+    "Redis",
+    "gRPC",
+    "Protocol Buffers"
+  ],
+  "experience": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "Stripe",
+      "start_date": "2022-01",
+      "end_date": "present",
+      "description": "Led redesign of payment routing engine, cutting p99 latency by 40%. Built real-time fraud detection pipeline processing 50K TPS using Kafka and Flink. Mentored 3 junior engineers and drove team technical roadmap.",
+      "source": "resume"
+    },
+    {
+      "title": "Software Engineer II",
+      "company": "Google",
+      "start_date": "2019-06",
+      "end_date": "2021-12",
+      "description": "Contributed to BigQuery storage layer. Improved columnar compression algorithms reducing storage costs by 15%. Shipped features for 5M+ active users.",
+      "source": "resume"
+    },
+    {
+      "title": "Software Engineering Intern",
+      "company": "Microsoft",
+      "start_date": "2018-05",
+      "end_date": "2018-08",
+      "description": "Built automated regression testing tooling for Azure SDK. Reduced test cycle time by 30%.",
+      "source": "resume"
+    }
+  ],
+  "education": [
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Master of Science, Computer Science",
+      "field_of_study": "Computer Science",
+      "start_date": "2017-01",
+      "end_date": "2019-01",
+      "source": "resume"
+    },
+    {
+      "school": "IIT Bombay",
+      "degree": "Bachelor of Technology, Computer Science",
+      "field_of_study": "Computer Science",
+      "start_date": "2013-01",
+      "end_date": "2017-01",
+      "source": "resume"
+    },
+    {
+      "school": "Carnegie Mellon University",
+      "degree": "Master of Science in Computer Science",
+      "start_date": "2017-01",
+      "end_date": "2019-01",
+      "source": "linkedin"
+    },
+    {
+      "school": "IIT Bombay",
+      "degree": "Bachelor of Technology in Computer Science",
+      "start_date": "2013-01",
+      "end_date": "2017-01",
+      "source": "linkedin"
+    }
+  ],
+  "confidence_score": 0.8981,
+  "confidence": {
+    "profile_id": 0.88,
+    "candidate_name": 0.95,
+    "contact_emails": 0.98,
+    "contact_phones": 0.95,
+    "location": 0.75,
+    "links": 0.72,
+    "professional_summary": 0.8,
+    "total_years_experience": 0.78,
+    "skills": 0.8,
+    "experience": 0.85,
+    "education": 0.85
+  },
+  "sources_used": [
+    "csv",
+    "resume",
+    "linkedin",
+    "github"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "user": {
+    "login": "priya-sharma-dev",
+    "name": "Priya Sharma",
+    "bio": "Senior SWE @ Stripe | Previously Google | Distributed systems & ML infra",
+    "location": "San Francisco, CA",
+    "blog": "https://priyasharma.dev",
+    "html_url": "https://github.com/priya-sharma-dev",
+    "public_repos": 24,
+    "followers": 312
+  },
+  "repos": [
+    {
+      "name": "distributed-kv-store",
+      "description": "A Raft-based distributed key-value store in Go",
+      "language": "Go",
+      "stargazers_count": 187,
+      "fork": false
+    },
+    {
+      "name": "ml-feature-pipeline",
+      "description": "Real-time ML feature engineering pipeline using Kafka + Flink",
+      "language": "Python",
+      "stargazers_count": 143,
+      "fork": false
+    },
+    {
+      "name": "terraform-modules",
+      "description": "Reusable Terraform modules for AWS infrastructure",
+      "language": "HCL",
+      "stargazers_count": 76,
+      "fork": false
+    },
+    {
+      "name": "leetcode-solutions",
+      "description": null,
+      "language": "Python",
+      "stargazers_count": 12,
+      "fork": false
+    },
+    {
+      "name": "react-dashboard-template",
+      "description": "A starter template for data dashboards",
+      "language": "TypeScript",
+      "stargazers_count": 55,
+      "fork": false
+    }
+  ]
+}
